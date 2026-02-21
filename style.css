@@ -54,6 +54,7 @@ gap:1vmin;
     color:rgb(209, 233, 59);
     border-radius:1rem;
     flex-direction:column;
+    postion:static;
     
 }
 
@@ -81,4 +82,5 @@ gap:2rem;
     color:#847221;
     text-shadow: 0px 5px 2px#000;
     
+
 }
